@@ -14,6 +14,9 @@
     ```bash
     node server.js
     ```
+* Minor changes were made to create_tables.sql
+   * Changed "Model" to "model"
+   * Changed categories table to only have name (dropped id)
 
 ## <ins>Available Endpoints</ins>
 
